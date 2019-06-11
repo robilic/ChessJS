@@ -1,0 +1,52 @@
+
+div#board {
+	font-size: 0px;
+}
+
+div.square-black {
+	background-color: #aaddaa;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+}
+
+div.square-black-darkened {
+	background-color: #88bb88;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+}
+
+div.square-black:hover {
+	background-color: #bbeebb;
+}
+
+div.square-white {
+	background-color: #eeddcc;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+}
+
+div.square-white-darkened {
+	background-color: #ccbbaa;
+	width: 60px;
+	height: 60px;
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+}
+
+div.square-white:hover {
+	background-color: #ffeedd;
+}
